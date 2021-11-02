@@ -1,0 +1,59 @@
+head {
+    display: none;
+}
+
+
+#keycode {
+    font-size: 200px;
+    font-weight: 500;
+    margin: 0 0 60px 0;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#any-key {
+    font-size: 26px;
+    padding: 0 50px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px #f53100;
+    margin: 20px 40px;
+}
+
+body {
+    background: linear-gradient(
+90deg
+, #00f6e2, #9100f1);
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card div {
+    width: 260px;
+}
+
+.header p {
+    font-weight: 500;
+}
+
+.description {
+    border-top: 1
+px
+ solid #FF881B;
+}
